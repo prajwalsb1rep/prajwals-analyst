@@ -1,6 +1,6 @@
-#  Prajwal's Analyst Agent
+#  Prajwal's Analyst Agent ( ALTAIR)
 
-Hey This is an AI-powered tool that automatically visualizes and analyzes any CSV data you upload. (Its an MVP and the vision is to build a tool where it can build dashboards with NLP) Cheers!
+Hey this is an AI-powered tool that automatically visualizes and analyzes any CSV data you upload. (Its an MVP and the vision is to build a tool where it can build dashboards with NLP) Cheers!
 
 ##  [Click Here to Launch App](https://prajwals-analyst-2csecresa2cxiows7vv3hl.streamlit.app/)
 
