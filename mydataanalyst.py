@@ -4,7 +4,7 @@ import numpy as np
 import plotly.express as px
 
 # --- 1. CONFIGURATION ---
-st.set_page_config(page_title="Prajwal's Analyst Agent", layout="wide")
+st.set_page_config(page_title="Prajwal's AI Analyst - Altair", layout="wide")
 
 # --- 2. CSS STYLING ---
 st.markdown("""
@@ -59,7 +59,7 @@ class DataAnalystAgent:
         return self
 
 # --- 4. APP INTERFACE ---
-st.title("Prajwal's Analyst Agent")
+st.title("Prajwal's AI Analyst - Altair")
 st.markdown("Cheers!")
 
 uploaded_file = st.file_uploader("Upload Data (CSV)", type="csv")
